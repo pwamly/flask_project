@@ -1,0 +1,43 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 402-413-309
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Project\\flask\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 402-413-309
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 402-413-309
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:33] "POST /token HTTP/1.1" 200 -
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:35] "POST /token HTTP/1.1" 200 -
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:36] "POST /token HTTP/1.1" 200 -
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:46] "POST /token HTTP/1.1" 200 -
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:46] "POST /token HTTP/1.1" 200 -
+INFO:main:token returned succefuly..................
+WARNING:main:testing warning log
+ERROR:main:testing error log
+INFO:main: SENDING AIRTEL B2C - [-- testing info log --]
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2021 17:11:47] "POST /token HTTP/1.1" 200 -
